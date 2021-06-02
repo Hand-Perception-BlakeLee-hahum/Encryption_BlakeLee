@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(16,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(23,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(58,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(66,43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(98,10): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(98,30): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(111,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(117,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\fivef\source\repos\c++\Encryption\Encryption\main.cpp(118,11): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '_Ty'입니다.
+          with
+          [
+              _Ty=std::string
+          ]
+  Encryption.vcxproj -> C:\Users\fivef\source\repos\c++\Encryption\Debug\Encryption.exe
