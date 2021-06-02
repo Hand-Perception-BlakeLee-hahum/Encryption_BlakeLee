@@ -2,14 +2,14 @@
 This is encryption program that was made with c++
 
 >Used STL
-#include <iostream>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string>
-#include <random>
-#include <vector>
-#include <sstream>
-#include <fstream>
+1. #include <iostream>
+2. #include <stdio.h>
+3. #include <stdlib.h>
+4. #include <string>
+5. #include <random>
+6. #include <vector>
+7. #include <sstream>
+8. #include <fstream>
 
 >How to use
 1. Cd /Encryption
